@@ -1,4 +1,4 @@
-# Project Title (Replace with your project's name)
+# Fake Odoo data
 
 ## Description
 This project utilizes the Python `faker` library to generate realistic-looking but fake data for customers, products, and orders. This data can be useful for testing, development, or demonstration purposes. 
