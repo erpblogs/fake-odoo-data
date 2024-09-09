@@ -15,12 +15,13 @@ def get_random_name_and_email(locale='en'):
     return name, email
 
 # Helper function to create fake customers in batches
-def create_customers_in_batch(batch_size):
+def create_customers_in_batch(batch_size, is_company=False):
     for _ in range(batch_size):
         name, email = get_random_name_and_email()
         partner_vals = {
             'name': name,
             'email': email,
+            'is_company': is_company,
             'customer_rank': 1,  # Mark the partner as a customer
         }
         models.execute_kw(db, uid, password, 'res.partner', 'create', [partner_vals])
@@ -31,6 +32,12 @@ def generate_fake_data(total_customers, customer_batch_size):
     print(f"Start create customers!")
     for _ in range(total_customers // customer_batch_size):
         create_customers_in_batch(customer_batch_size)
+        print(f"Created customers, processing {_ * customer_batch_size} so far.")
+        
+def generate_fake_company_data(total_customers, customer_batch_size):
+    print(f"Start create customers!")
+    for _ in range(total_customers // customer_batch_size):
+        create_customers_in_batch(customer_batch_size, is_company=True)
         print(f"Created customers, processing {_ * customer_batch_size} so far.")
 
     
