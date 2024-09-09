@@ -1,0 +1,249 @@
+id,external_id,category_name
+1,import.product_id_1,Beading & Jewelry Making
+2,import.product_id_2,Fabric Decorating
+3,import.product_id_3,Knitting & Crochet Supplies
+4,import.product_id_4,Printmaking Supplies
+5,import.product_id_5,Scrapbooking & Stamping Supplies
+6,import.product_id_6,Sewing Products
+7,import.product_id_7,Craft & Hobby Fabric
+8,import.product_id_8,Needlework Supplies
+9,import.product_id_9,"Arts, Crafts & Sewing Storage"
+10,import.product_id_10,"Painting, Drawing & Art Supplies"
+11,import.product_id_11,Craft Supplies & Materials
+12,import.product_id_12,Gift Wrapping Supplies
+13,import.product_id_13,Party Decorations
+14,import.product_id_14,Automotive Paint & Paint Supplies
+15,import.product_id_15,Heavy Duty & Commercial Vehicle Equipment
+16,import.product_id_16,Automotive Tires & Wheels
+17,import.product_id_17,Automotive Tools & Equipment
+18,import.product_id_18,Automotive Performance Parts & Accessories
+19,import.product_id_19,Car Care
+20,import.product_id_20,Oils & Fluids
+21,import.product_id_21,Automotive Replacement Parts
+22,import.product_id_22,"Lights, Bulbs & Indicators"
+23,import.product_id_23,Automotive Interior Accessories
+24,import.product_id_24,Automotive Exterior Accessories
+25,import.product_id_25,Automotive Enthusiast Merchandise
+26,import.product_id_26,Car Electronics & Accessories
+27,import.product_id_27,RV Parts & Accessories
+28,import.product_id_28,Motorcycle & Powersports
+29,import.product_id_29,Baby Diapering Products
+30,import.product_id_30,Baby & Toddler Feeding Supplies
+31,import.product_id_31,Pregnancy & Maternity Products
+32,import.product_id_32,Child Safety Car Seats & Accessories
+33,import.product_id_33,Baby Safety Products
+34,import.product_id_34,Toilet Training Products
+35,import.product_id_35,Baby Care Products
+36,import.product_id_36,Baby Travel Gear
+38,import.product_id_38,Baby Activity & Entertainment Products
+39,import.product_id_39,Baby Gifts
+40,import.product_id_40,Baby Stationery
+41,import.product_id_41,"Nursery Furniture, Bedding & Décor"
+42,import.product_id_42,Baby
+43,import.product_id_43,Baby Boys' Clothing & Shoes
+44,import.product_id_44,Baby Strollers & Accessories
+45,import.product_id_45,Beauty & Personal Care
+46,import.product_id_46,Perfumes & Fragrances
+47,import.product_id_47,Hair Care Products
+48,import.product_id_48,Makeup
+49,import.product_id_49,Skin Care Products
+50,import.product_id_50,Beauty Tools & Accessories
+51,import.product_id_51,"Foot, Hand & Nail Care Products"
+52,import.product_id_52,Personal Care Products
+53,import.product_id_53,Shaving & Hair Removal Products
+54,import.product_id_54,Computer Servers
+55,import.product_id_55,Data Storage
+56,import.product_id_56,Computer Monitors
+57,import.product_id_57,Computers & Tablets
+58,import.product_id_58,Tablet Replacement Parts
+60,import.product_id_60,Computer Networking
+63,import.product_id_63,Computer Components
+64,import.product_id_64,Tablet Accessories
+65,import.product_id_65,Laptop Accessories
+66,import.product_id_66,Computer External Components
+68,import.product_id_68,Wearable Technology
+69,import.product_id_69,Televisions & Video Products
+70,import.product_id_70,GPS & Navigation
+71,import.product_id_71,Headphones & Earbuds
+72,import.product_id_72,Office Electronics
+73,import.product_id_73,Portable Audio & Video
+74,import.product_id_74,eBook Readers & Accessories
+75,import.product_id_75,Cell Phones & Accessories
+76,import.product_id_76,Accessories & Supplies
+77,import.product_id_77,Video Projectors
+78,import.product_id_78,Vehicle Electronics
+79,import.product_id_79,Camera & Photo
+80,import.product_id_80,Security & Surveillance Equipment
+81,import.product_id_81,Computers
+82,import.product_id_82,Home Audio & Theater Products
+83,import.product_id_83,Video Game Consoles & Accessories
+84,import.product_id_84,Boys' Clothing
+87,import.product_id_87,Boys' Accessories
+88,import.product_id_88,Boys' Jewelry
+89,import.product_id_89,Boys' Watches
+90,import.product_id_90,Boys' Shoes
+91,import.product_id_91,Girls' Clothing
+94,import.product_id_94,Girls' Accessories
+95,import.product_id_95,Girls' Jewelry
+96,import.product_id_96,Girls' Watches
+97,import.product_id_97,Girls' Shoes
+98,import.product_id_98,Girls' School Uniforms
+99,import.product_id_99,Travel Duffel Bags
+100,import.product_id_100,Messenger Bags
+101,import.product_id_101,Travel Tote Bags
+102,import.product_id_102,Garment Bags
+103,import.product_id_103,Luggage Sets
+104,import.product_id_104,Suitcases
+105,import.product_id_105,Travel Accessories
+106,import.product_id_106,Rain Umbrellas
+107,import.product_id_107,Backpacks
+108,import.product_id_108,Luggage
+109,import.product_id_109,Laptop Bags
+110,import.product_id_110,Men's Clothing
+112,import.product_id_112,Men's Accessories
+113,import.product_id_113,Men's Watches
+114,import.product_id_114,Men's Shoes
+116,import.product_id_116,Women's Clothing
+118,import.product_id_118,Women's Handbags
+120,import.product_id_120,Women's Accessories
+121,import.product_id_121,Women's Watches
+122,import.product_id_122,Women's Shoes
+123,import.product_id_123,Women's Jewelry
+124,import.product_id_124,Kids' Furniture
+125,import.product_id_125,Gift Cards
+126,import.product_id_126,Oral Care Products
+127,import.product_id_127,Vision Products
+128,import.product_id_128,Wellness & Relaxation Products
+129,import.product_id_129,Baby & Child Care Products
+130,import.product_id_130,Household Supplies
+131,import.product_id_131,Health Care Products
+132,import.product_id_132,Diet & Sports Nutrition
+133,import.product_id_133,Home Use Medical Supplies & Equipment
+134,import.product_id_134,Sexual Wellness Products
+135,import.product_id_135,Health & Household
+136,import.product_id_136,Sports Nutrition Products
+137,import.product_id_137,Stationery & Gift Wrapping Supplies
+138,import.product_id_138,Commercial Door Products
+139,import.product_id_139,Power Transmission Products
+140,import.product_id_140,Industrial Materials
+141,import.product_id_141,Industrial Hardware
+142,import.product_id_142,Abrasive & Finishing Products
+143,import.product_id_143,"Industrial Adhesives, Sealants & Lubricants"
+144,import.product_id_144,Material Handling Products
+145,import.product_id_145,"Test, Measure & Inspect"
+146,import.product_id_146,Industrial Power & Hand Tools
+147,import.product_id_147,"Hydraulics, Pneumatics & Plumbing"
+148,import.product_id_148,Filtration
+149,import.product_id_149,Electronic Components
+150,import.product_id_150,Lab & Scientific Products
+151,import.product_id_151,Janitorial & Sanitation Supplies
+152,import.product_id_152,Occupational Health & Safety Products
+153,import.product_id_153,Cutting Tools
+154,import.product_id_154,Fasteners
+155,import.product_id_155,Science Education Supplies
+156,import.product_id_156,Food Service Equipment & Supplies
+157,import.product_id_157,Additive Manufacturing Products
+158,import.product_id_158,Professional Medical Supplies
+159,import.product_id_159,Professional Dental Supplies
+160,import.product_id_160,Packaging & Shipping Supplies
+161,import.product_id_161,Retail Store Fixtures & Equipment
+162,import.product_id_162,Industrial & Scientific
+163,import.product_id_163,Bath Products
+164,import.product_id_164,Bedding
+165,import.product_id_165,Home Décor Products
+166,import.product_id_166,Furniture
+167,import.product_id_167,Household Cleaning Supplies
+168,import.product_id_168,Seasonal Décor
+169,import.product_id_169,Home Lighting & Ceiling Fans
+170,import.product_id_170,Kitchen & Dining
+171,import.product_id_171,"Heating, Cooling & Air Quality"
+172,import.product_id_172,Kids' Home Store
+173,import.product_id_173,Home Storage & Organization
+174,import.product_id_174,Wall Art
+175,import.product_id_175,Vacuum Cleaners & Floor Care
+176,import.product_id_176,Ironing Products
+177,import.product_id_177,Party Supplies
+178,import.product_id_178,Pet Bird Supplies
+179,import.product_id_179,Cat Supplies
+180,import.product_id_180,Dog Supplies
+181,import.product_id_181,Fish & Aquatic Pets
+182,import.product_id_182,Horse Supplies
+183,import.product_id_183,Reptiles & Amphibian Supplies
+184,import.product_id_184,Small Animal Supplies
+185,import.product_id_185,Smart Home: New Smart Devices
+186,import.product_id_186,Smart Home: Voice Assistants and Hubs
+187,import.product_id_187,Smart Home: Smart Locks and Entry
+188,import.product_id_188,Smart Home: Home Entertainment
+189,import.product_id_189,Smart Home: WiFi and Networking
+190,import.product_id_190,Smart Home: Security Cameras and Systems
+191,import.product_id_191,Smart Home: Lighting
+192,import.product_id_192,Smart Home: Plugs and Outlets
+193,import.product_id_193,Smart Home: Vacuums and Mops
+194,import.product_id_194,Smart Home Thermostats - Compatibility Checker
+195,import.product_id_195,Smart Home: Lawn and Garden
+196,import.product_id_196,Smart Home: Other Solutions
+197,import.product_id_197,Smart Home - Heating & Cooling
+198,import.product_id_198,Sports & Fitness
+199,import.product_id_199,Outdoor Recreation
+200,import.product_id_200,Sports & Outdoors
+201,import.product_id_201,Home Appliances
+203,import.product_id_203,Pumps & Plumbing Equipment
+204,import.product_id_204,"Paint, Wall Treatments & Supplies"
+205,import.product_id_205,Safety & Security
+206,import.product_id_206,Light Bulbs
+207,import.product_id_207,Power Tools & Hand Tools
+208,import.product_id_208,Kitchen & Bath Fixtures
+209,import.product_id_209,Lighting & Ceiling Fans
+210,import.product_id_210,Electrical Equipment
+211,import.product_id_211,Hardware
+212,import.product_id_212,Building Supplies
+213,import.product_id_213,Measuring & Layout
+214,import.product_id_214,Welding & Soldering
+215,import.product_id_215,Tools & Home Improvement
+216,import.product_id_216,Kids' Party Supplies
+217,import.product_id_217,Toy Figures & Playsets
+218,import.product_id_218,Novelty Toys & Amusements
+219,import.product_id_219,Arts & Crafts Supplies
+220,import.product_id_220,Building Toys
+221,import.product_id_221,Dolls & Accessories
+222,import.product_id_222,Kids' Electronics
+223,import.product_id_223,Games & Accessories
+224,import.product_id_224,Learning & Education Toys
+225,import.product_id_225,Kids' Dress Up & Pretend Play
+226,import.product_id_226,Puppets & Puppet Theaters
+227,import.product_id_227,Puzzles
+228,import.product_id_228,Sports & Outdoor Play Toys
+229,import.product_id_229,Stuffed Animals & Plush Toys
+230,import.product_id_230,Baby & Toddler Toys
+231,import.product_id_231,"Tricycles, Scooters & Wagons"
+232,import.product_id_232,Finger Toys
+233,import.product_id_233,Toy Vehicle Playsets
+234,import.product_id_234,Kids' Play Trains & Trams
+235,import.product_id_235,Kids' Play Trucks
+236,import.product_id_236,Kids' Play Cars & Race Cars
+237,import.product_id_237,Kids' Play Boats
+238,import.product_id_238,Kids' Play Buses
+239,import.product_id_239,Kids' Play Tractors
+240,import.product_id_240,"Slot Cars, Race Tracks & Accessories"
+241,import.product_id_241,"Sony PSP Games, Consoles & Accessories"
+242,import.product_id_242,"Nintendo DS Games, Consoles & Accessories"
+243,import.product_id_243,"PlayStation 3 Games, Consoles & Accessories"
+244,import.product_id_244,"Wii Games, Consoles & Accessories"
+245,import.product_id_245,"Xbox 360 Games, Consoles & Accessories"
+248,import.product_id_248,Mac Games & Accessories
+249,import.product_id_249,"Nintendo 3DS & 2DS Consoles, Games & Accessories"
+250,import.product_id_250,Legacy Systems
+251,import.product_id_251,"PlayStation Vita Games, Consoles & Accessories"
+252,import.product_id_252,"Wii U Games, Consoles & Accessories"
+253,import.product_id_253,"PlayStation 4 Games, Consoles & Accessories"
+254,import.product_id_254,"Xbox One Games, Consoles & Accessories"
+255,import.product_id_255,Video Games
+256,import.product_id_256,Online Video Game Services
+259,import.product_id_259,Virtual Reality Hardware & Accessories
+260,import.product_id_260,"Nintendo Switch Consoles, Games & Accessories"
+261,import.product_id_261,"PlayStation 5 Consoles, Games & Accessories"
+262,import.product_id_262,"Xbox Series X & S Consoles, Games & Accessories"
+263,import.product_id_263,PC Games & Accessories
+264,import.product_id_264,Baby Girls' Clothing & Shoes
+265,import.product_id_265,Boys' School Uniforms
+270,import.product_id_270,Toys & Games

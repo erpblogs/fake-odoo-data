@@ -1,19 +1,26 @@
 import random
-from faker import Faker
 from common import * 
 
-# Initialize Faker for English and Vietnamese
+from faker import Faker
+
+import faker_commerce
+
 fake_en = Faker()
+fake_en.add_provider(faker_commerce.Provider)
+
+# Initialize Faker for English and Vietnamese
 fake_vi = Faker('vi_VN')
+fake_vi.add_provider(faker_commerce.Provider)
+
 
 # Helper function to create fake products in batches
 def create_products_in_batch(batch_size, category_id, locale='en'):
     fake = fake_en if locale == 'en' else fake_vi
     for _ in range(batch_size):
-        product_name = fake.catch_phrase()
+        product_name = fake.ecommerce_name()
         product_vals = {
             'name': product_name,
-            'purchase_ok': False,
+            'purchase_ok': True,
             'list_price': random.uniform(50, 500),
             'description_sale': False,
             'categ_id': category_id,

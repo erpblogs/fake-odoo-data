@@ -44,3 +44,16 @@ This project utilizes the Python `faker` library to generate realistic-looking b
 2. **Run the script:**
    ```bash
    python3 -m run.sh
+
+   ```
+3. **Run multiple  SO script process with parallel:**
+if you want to run multiple process to quick create SO
+   * Install parallel
+   ```bash
+   sudo apt install parallel
+   ```
+
+   * Start your script
+   ```bash
+   nohup parallel python run_so.py ::: {1..8} > output.log 2>&1 &
+   ```

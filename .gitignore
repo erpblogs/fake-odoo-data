@@ -1,2 +1,4 @@
 *.py[cod]
 common.py
+nohup.out
+output.log
