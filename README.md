@@ -8,6 +8,11 @@ This project utilizes the Python `faker` library to generate realistic-looking b
 ### Prerequisites
 
 * Python 3.x installed ([https://www.python.org/downloads/](https://www.python.org/downloads/))
+* Python `faker` library, you can using faker_commerce, faker_food inside this library
+
+   ```bash
+   pip install faker
+    ```
 
 ### Installation
 
