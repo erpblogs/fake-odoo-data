@@ -12,6 +12,7 @@ This project utilizes the Python `faker` library to generate realistic-looking b
 
    ```bash
    pip install faker
+   pip install faker_commerce
     ```
 
 ### Installation
@@ -55,5 +56,5 @@ if you want to run multiple process to quick create SO
 
    * Start your script
    ```bash
-   nohup parallel python run_so.py ::: {1..8} > output.log 2>&1 &
+   parallel python3 -m run_so.py ::: {1..4} > output.log 2>&1 &
    ```

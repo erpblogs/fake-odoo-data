@@ -1,9 +1,5 @@
-from create_customer import generate_fake_data as generate_customer_fake_data
-from create_product import generate_fake_data as generate_product_fake_data
 from create_so import generate_fake_data as generate_so_fake_data
 
-TOTAL_CUSTOMERS = 2000
-TOTAL_PRODUCTS = 100000
 TOTAL_SO = 100000
 BATCH_SIZE = 1000  # Adjust this batch size
     
